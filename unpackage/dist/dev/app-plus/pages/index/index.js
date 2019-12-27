@@ -1,0 +1,2 @@
+setCssToHead(["wx-text{ font-size: 20px; text-align: center; color:#4CD964; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

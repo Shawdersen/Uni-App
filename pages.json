@@ -1,0 +1,26 @@
+{
+	"pages": [ 
+		{
+			"path":"pages/begin/begin",
+			"style":{}
+		},
+		{
+			"path":"pages/home/home",
+			"style":{}
+		},
+		{
+			"path": "pages/Steven/home",
+			"style": {}
+		},
+		{
+			"path":"pages/Amine/home",
+			"style":{}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Steven",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
